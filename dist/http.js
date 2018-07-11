@@ -13,7 +13,6 @@
     var fn = http.prototype;
     
 fn.ready = function (callback) {
-    'use strict';
     if (document.readyState !== 'loading') {
         callback();
     } else if (document.addEventListener) {
