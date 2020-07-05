@@ -1,7 +1,7 @@
 /*!
  * HTTP.js JavaScript Library v1.0.0
  *
- * Copyright Jake Drew and other contributors
+ * Copyright Jake Drew
  * Released under the MIT license
  *
  */
